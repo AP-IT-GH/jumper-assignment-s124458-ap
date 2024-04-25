@@ -1,3 +1,6 @@
+Oefening gemaakt door
+- Alain Lermytte
+
 ![voorbeeld opstelling](afbeelding-opstelling.PNG)
 
 
